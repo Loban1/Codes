@@ -1,5 +1,41 @@
-# Codes English 
-Hello, my name is João (my username is Loban1). I’m a student of Systems Analysis and Development at the Federal Institute of Mato Grosso do Sul in Brazil. Here, I share my college assignments and personal projects. Feel free to contact me at lobanturing@gmail.com 
+US - # Financial Manager
 
-# Codes Deustsch
-Hallo, mein Name ist João (mein Benutzername lautet Loban1). Ich studiere Systemanalyse und -entwicklung am Bundesinstitut von Mato Grosso do Sul in Brasilien. Hier teile ich meine Studienarbeiten und persönlichen Projekte. Du kannst mich gerne unter lobanturing@gmail.com kontaktieren. 
+A simple Python application for managing revenues and expenses.
+
+## Features
+
+- Register revenues
+- Register expenses
+- Calculate final balance
+- Profit/Loss report
+
+## Technologies
+
+- Python
+
+## Future Improvements
+
+- Save data to files
+- Graphical interface
+- Database integration
+
+DE - # Finanzmanager
+
+Eine einfache Python-Anwendung zur Verwaltung von Einnahmen und Ausgaben.
+
+## Funktionen
+
+- Einnahmen erfassen
+- Ausgaben erfassen
+- Endsaldo berechnen
+- Gewinn- und Verlustbericht
+
+## Technologien
+
+- Python
+
+## Zukünftige Verbesserungen
+
+- Daten in Dateien speichern
+- Grafische Benutzeroberfläche
+- Datenbankintegration
